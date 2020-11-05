@@ -1,0 +1,50 @@
+body {
+    
+}
+
+header {
+    background-color: rgb(59, 59, 59);
+    width: 960px;
+    height: 90px;
+    margin: 15px;
+    float: left;
+}
+
+nav {
+
+}
+
+footer {
+    background-color: rgb(59, 59, 59);
+    width: 960px;
+    height: 90px;
+    margin: 15px
+}
+
+#herodiv {
+    margin: 15px;
+}
+
+.subbannerimg {
+    margin: 15px;
+}
+
+#featuredsection {
+    margin: 15px;
+}
+
+#sectionbannerdiv {
+    margin: 15px;
+}
+
+#sectiontextdiv {
+    margin: 15px;
+    overflow: scroll;
+    width: 480px;
+    height: 300px;
+}
+
+#sectiontextp {
+
+}
+
