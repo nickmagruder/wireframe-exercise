@@ -4,37 +4,73 @@ body {
 
 header {
     background-color: rgb(59, 59, 59);
-    width: 960px;
+    width: 100%;
     height: 90px;
-    margin: 15px;
-    float: left;
+    margin: 0px 0px 15px 0px;
 }
 
-nav {
+#logo{
 
+}
+
+.navbox {
+    margin: 30px:
+}
+
+.navlink {
+
+}
+
+main {
+
+}
+
+section{
+    text-align: center;
 }
 
 footer {
     background-color: rgb(59, 59, 59);
-    width: 960px;
+    width: 100%;
     height: 90px;
-    margin: 15px
+    margin: 0px 0px 15px 0px;
+    clear: both;
 }
 
-#herodiv {
+#heroimg {
     margin: 15px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#subbannerdiv {
+    text-align: center;
 }
 
 .subbannerimg {
     margin: 15px;
+    display: inline-block;
 }
 
 #featuredsection {
+    text-align: center;
+    
+}
+
+.sectionbannerimg {
     margin: 15px;
+    
 }
 
 #sectionbannerdiv {
     margin: 15px;
+    float: left;
+    display: inline-block;
+}
+
+#sectionbannerdiv{
+   
 }
 
 #sectiontextdiv {
@@ -42,9 +78,18 @@ footer {
     overflow: scroll;
     width: 480px;
     height: 300px;
+    display: inline-block;
 }
 
 #sectiontextp {
+}
 
+#actionbutton {
+    margin: 15px;
+    width: 240px;
+    height: 30px;
+    border: black 3px solid;
+    background-color: black;
+    color: white;
 }
 
